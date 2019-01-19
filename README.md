@@ -1,4 +1,4 @@
-# hr00-react-ajax-practice
+# react-ajax-practice
 
 ## Overview
 This review assignment will give you some additional practice with React, AJAX, and controlled components. In this assignment, you will be creating a small React front-end that sends an AJAX request to a server, and then displays the response on the screen.
